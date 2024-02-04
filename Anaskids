@@ -6,12 +6,10 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 
-#EXTINF:-1 tvg-id="438" group-title="Anas" tvg-language="Tamil" tvg-logo="https://cdn5.cdn-telegram.org/file/rSdSq7MKy0XJmTwvdW9byV_QpP-7piEb5wfBseeLGNd4GRafzl4_fyieX7OUJtiVud7f-mmlKPlGgcn4saKd3yUk6Ukhc9sIOJrwuBHm3DAUgQEnISe_9p_9l1X2yIUy6EAym2HzVqg_mqwbO3uG4VVc1T7eSDWoRd-DECME9IgNV8qb0Qs9SEmSCuGgQRsBzcSzG3SkTyJKqL8Yn4-O4oFlmCMNl585QbaDvlUGyMScJK2kB296gaWWaWDff9Wt8VC-Bw1IRdauIVvtpLCgPhOacHsG1kpRpCx-LJ1gp7v7wibT24PSQJHZV4HLuqvJxUcDavD-Aq6INP6qk_Q1xA.jpg",Anas
-https://cdn5.cdn-telegram.org/file/3672c1da49.mp4?token=UAUGaPqbOQ4SGcj2ALzfqPsUmXgd0wOzL89dUGq9d1_aLgCAGzx3SyIcZuqcHR_Y4Na214CF8hfy2jAIIuLrBILQ96vwQ-YDVa-wJQG10_xPwtG7CDXbkI27z3_X8nk7Fya_5gbtuMv8XRZx1RNLr7xGeOJWdmVSQWJ_G_bkpFEQvm-NH1_DKdVbZClfMq0ijZ0JBWvTQ9GzQBEGreH2RmeKSCdtYFqG7VEQq060_tZL20YVJEsX-ER6ME54flJlZYiMxZUe0uyz9mgB8oYyaZErvpZbWaYTUC4jrMMWxYxj96C6BUI7LOaferQAlqDJtKGVa8O1M_K2jjsN5o0zug
 
 
 
-
+#EXTINF:-1 tvg-id="438" ghttps://d39q.short.gy/TPvideoroup-title="Anas" tvg-language="Tamil" tvg-logo="https://d39q.short.gy/TP",Anas
 
 
 
@@ -121,7 +119,7 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifes
 
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=144
 
-#EXTINF:-1 tvg-id="ts144" tvg-name="Disney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiTpmPXVBfMnx_CWVGaEGN3Uq6U-X7NJdEQQ&usqp=CAU" group-title="Anas  KIDS PACK",Disney junior
+#EXTINF:-1 tvg-id="ts144" tvg-name="Disney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiTpmPXVBfMnx_CWVGaEGN3Uq6U-X7NJdEQQ&usqp=CAU" group-title="Denver KIDS PACK",Disney junior
 
 https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd
 
@@ -133,7 +131,7 @@ https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifes
 
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=905
 
-#EXTINF:-1 tvg-id="ts905" tvg-name="ETV Bal Bharat" tvg-logo="https://te.legra.ph/file/6d07a554a226b685e1c66.jpg" group-title="Anas KIDS PACK",ETV Bal Bharat
+#EXTINF:-1 tvg-id="ts905" tvg-name="ETV Bal Bharat" tvg-logo="https://te.legra.ph/file/6d07a554a226b685e1c66.jpg" group-title="Denver KIDS PACK",ETV Bal Bharat
 
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd
 
@@ -343,4 +341,4 @@ https://denver1769.in/tptv.php?id=59997
 
 #EXTINF:-1 tvg-id="58248" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsqLPwXQSVL0nz2gPyozr3tcJMxH9jAlrmnw&usqp=CAU" group-title="Denver KIDS PACK",POKEMON
 
-https://denver1769.in/tptv.php?id=5846
+https://denver1769.in/tptv.php?id=58464
